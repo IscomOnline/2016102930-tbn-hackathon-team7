@@ -10,7 +10,7 @@
 
 1. 安裝Unity 5.x版 [下載網址](https://unity3d.com)
 
-2. 下載專案 [下載網址]https://github.com/hatsukiotowa/2016102930-tbn-hackathon-team7
+2. 下載專案 [下載網址](https://github.com/hatsukiotowa/2016102930-tbn-hackathon-team7)
 
 ##執行遊戲
 
