@@ -16,6 +16,8 @@
 
 1.打開 Bio Comp Project
 
+![](./selectProject.png)
+
 2.打開 Assets/GO Map - 3D Map For AR Gaming 開啟 POI - Demo Scene
 
 3.使用 上下左右鍵盤前進，並點選畫面提示按鈕
