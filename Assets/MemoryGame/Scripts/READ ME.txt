@@ -1,0 +1,38 @@
+﻿WHAT IS THIS?
+
+This is simple memory game project.
+
+===========================================================================================================
+
+HOW TO USE IT?
+
+1) Open example scene "memorygame" that is included in this package.
+2) Run it.
+3) Select game object "MemoryGame" in hierarchy tab. There's GameManger.cs script attach to it. Open script in your editor
+4) You can see documented code.
+
+===========================================================================================================
+
+SOME TIPS FOR FIRST USE
+
+1) Try to change values of varaibles horizontal and vertical
+2) Play with materials for background plane and tiles
+3) Of course, import your images
+
+===========================================================================================================
+
+CAN I CHANGE THE CODE?
+
+Yes, you can.
+
+===========================================================================================================
+
+WHERE CAN I USE THIS?
+
+Everywhere - free project, commercial project etc...
+
+===========================================================================================================
+
+CONTACT?
+
+tb@tomislavbali.com
