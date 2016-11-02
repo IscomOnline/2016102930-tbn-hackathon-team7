@@ -62,8 +62,8 @@ public class ClickBehavior : MonoBehaviour {
 
 	public void post(){
 		NameValueCollection nvcForPost = new NameValueCollection(); //  參數資訊
-		nvcForPost.Add("Account", "hatsukiotowa@gmail.com"); //登入帳號
-		nvcForPost.Add("Password", "tp6ful3mp6");//登入密碼
+		nvcForPost.Add("Account", "XXXX"); //登入帳號
+		nvcForPost.Add("Password", "XXX");//登入密碼
 		nvcForPost.Add("strAddr", "");//地點描述
 		nvcForPost.Add("Lon", "121.156");//經度
 		nvcForPost.Add("Lat", "24.9455");//緯度
